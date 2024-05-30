@@ -1,6 +1,38 @@
-# scinbre-python-2024
+# SC INBRE Python Workshop 2024
 
 This repository contains the material used for the SCINBRE Machine Learning in Python workshop from the Bioinformatics and Data Science
 Summer Workshops 2024 series. You can find more information, including the agenda, on these workshops [here](https://www.scinbre.org/learning/bioinformatics-workshops/2024-summer-workshops).
 
-Lectures sessions will be everyday from 10AM to noon. Official office hours will be from 2PM to 3PM. Please feel free to reach us out if you have questions outside of these hours.
+Lectures sessions will be every day from 10 AM to noon. Official office hours will be from 2 PM to 3 PM. Please feel free to contact us if you have questions outside these hours.
+
+Each lecture will be associated with a corresponding Jupyter Notebook. These will be added approximately 24 hours in advance of the lecture.
+
+### Local installation
+
+If you are working on a local installation, you will need to [install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) if it is not already available on your computer. Then, in a shell, you will have to `clone` this repository:
+
+```bash
+git clone https://github.com/lina-usc/scinbre-python-2024.git
+```
+
+This will download this repository in your current location. To update your local version of the repository (to get access to the material for the new lectures), you will need to use
+
+```bash
+git pull 
+```
+
+
+### Notebooks
+
+If you are working on [Google Colab](https://colab.research.google.com/), you can open these notebooks by clicking on the corresponding links below (links added about 24h in advance):
+
+- 06/03:
+- 06/04:
+- 06/05:
+- 06/06:
+- 06/07:
+- 06/10:
+- 06/11:
+- 06/12:
+- 06/13:
+- 06/14:

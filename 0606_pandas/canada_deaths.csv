@@ -1,0 +1,53 @@
+﻿"Estimates of deaths, by age and gender, annual 1 2 3 4 5 6"
+"Frequency: Annual"
+"Table: 17-10-0006-01 (formerly CANSIM 051-0002)"
+"Release date: 2024-02-21"
+"Geography: Canada, Province or territory"
+""
+""
+
+"Geography","Canada",,,,,,,
+"Gender","Total - gender",,,,,,,
+"Age group 3 7","2015 / 2016","2016 / 2017","2017 / 2018","2018 / 2019","2019 / 2020","2020 / 2021","2021 / 2022","2022 / 2023"
+,"Persons",,,,,,,
+"All ages","262,278","274,517","283,939","283,148","297,195","307,297","319,619","330,379"
+"-1 year 8","1,627","1,595","1,584","1,593","1,535","1,449","1,513","1,485"
+"0 to 4 years","472","457","411","423","425","353","419","433"
+"5 to 9 years","159","156","171","162","151","146","166","185"
+"10 to 14 years","229","254","252","226","228","271","282","298"
+"15 to 19 years","791","771","905","777","807","818","820","865"
+"20 to 24 years","1,380","1,383","1,485","1,481","1,446","1,668","1,553","1,576"
+"25 to 29 years","1,605","1,727","1,931","1,938","1,932","2,437","2,217","2,321"
+"30 to 34 years","1,793","2,061","2,138","2,181","2,292","2,805","2,686","2,814"
+"35 to 39 years","2,095","2,257","2,502","2,586","2,648","3,399","3,239","3,355"
+"40 to 44 years","2,988","3,021","3,065","3,131","3,250","3,938","3,725","3,918"
+"45 to 49 years","4,713","4,742","4,805","4,661","4,647","5,332","5,017","5,131"
+"50 to 54 years","8,774","8,494","8,322","7,889","7,696","8,166","7,803","7,926"
+"55 to 59 years","12,929","12,946","13,181","13,080","13,330","14,170","13,633","13,400"
+"60 to 64 years","17,316","17,569","18,194","18,175","18,959","19,592","19,972","20,535"
+"65 to 69 years","22,241","23,109","23,159","23,057","24,292","25,395","26,428","27,608"
+"70 to 74 years","25,358","26,662","28,683","28,792","30,799","32,443","34,365","34,790"
+"75 to 79 years","29,743","30,997","32,161","32,898","34,607","36,667","38,907","42,151"
+"80 to 84 years","38,558","39,232","39,578","39,282","41,058","41,730","44,106","46,075"
+"85 to 89 years","42,336","44,672","46,108","45,379","47,689","46,895","49,036","49,712"
+"90 to 94 years","32,377","35,359","36,563","36,230","38,538","38,743","41,115","42,528"
+"95 to 99 years","12,250","14,150","15,678","16,108","17,500","17,390","18,634","19,218"
+"100 years and older","2,544","2,903","3,063","3,099","3,366","3,490","3,983","4,055"
+
+
+
+
+Footnotes:
+1,"Period from July 1 to June 30."
+2,"The number of deaths is final up to 2020/2021, updated for 2021/2022 and preliminary for 2022/2023."
+3,"Data for persons aged 90 to 100 years and older will be available from 2001/2002."
+4,"Starting in 2020/2021, estimates of deaths are produced by the Centre for Demography, Statistics Canada (See Definitions, data sources and methods record number 3601), incorporating provisional deaths data from the Centre for Population Health Data. Before 2020/2021, data are from Vital Statistics – Birth and Death Databases, Statistics Canada (See Definitions, data sources and methods record number 3233). However, before 2011/2012, the estimates included in this table may differ from vital statistics already released by Statistics Canada, due to the imputation of certain unknown values. In addition, for estimates of deaths, the age represents age at the beginning of the period (July 1st) and not the age at the time of occurrence, as with the Vital Statistics data."
+5,"The population growth, which is used to calculate population estimates, is comprised of the natural growth (Tables 17100006 and 17100016), international migration (Table 17100014) and interprovincial migration (Table 17100015)."
+6,"The demographic estimates now incorporate the concept of gender, which was first introduced in the 2021 Census of Population. Gender refers to an individual's personal and social identity as a man, woman or non-binary person (a person who is not exclusively a man or a woman). Demographic estimates are available for the gender category "Men+", which includes men (and/or boys), as well as some non-binary persons, and for the gender category “Women+" category, which includes women (and/or girls), as well as some non-binary persons. For the sake of uniformity, all data products from the Demographic Estimates Program now adopt the term ‘gender’ for all years and periods. Prior to 2021, the demographic estimates are based on the concept of sex at birth. Although gender and sex at birth are two different concepts, this change does not cause a significant break in the trend because the two concepts produce very similar distributions. Population estimates by age and sex at birth are available upon request (please contact statcan.demography-demographie.statcan@statcan.gc.ca)."
+7,"Age at July 1."
+8,"Age -1 represents persons born after July 1 and not included in age group 0 to 4 years."
+
+
+
+"How to cite: Statistics Canada. Table 17-10-0006-01  Estimates of deaths, by age and gender, annual"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000601

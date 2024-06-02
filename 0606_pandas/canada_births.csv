@@ -1,0 +1,29 @@
+﻿"Estimates of births, by gender, annual 1 2 3 4 5"
+"Frequency: Annual"
+"Table: 17-10-0016-01 (formerly CANSIM 051-0013)"
+"Release date: 2024-02-21"
+"Geography: Canada, Province or territory"
+""
+""
+
+"Geography","Canada",,,,,,,
+"Gender","2015 / 2016","2016 / 2017","2017 / 2018","2018 / 2019","2019 / 2020","2020 / 2021","2021 / 2022","2022 / 2023"
+,"Persons",,,,,,,
+"Total - gender","384,300","380,554","377,163","373,307","371,321","362,563","364,503","357,903"
+"Men+","196,710","195,512","193,562","191,222","190,301","186,345","187,126","183,581"
+"Women+","187,590","185,042","183,601","182,085","181,020","176,218","177,377","174,322"
+
+
+
+
+Footnotes:
+1,"Period from July 1 to June 30."
+2,"The number of births is final up to 2020/2021, updated for 2021/2022 and preliminary for 2022/2023."
+3,"For 2022/2023, the estimates of births are produced by the Centre for Demography, Statistics Canada (See Definitions, data sources and methods record number 3601). Before 2022/2023, data are from Vital Statistics – Birth and Death Databases, Statistics Canada (See Definitions, data sources and methods record number 3231). However, before 2010/2011, the estimates included in this table may differ from vital statistics already released by Statistics Canada, due to the imputation of certain unknown values (province, territory or gender). Due to incomplete births data in 2021 and 2022, distribution by gender of births for Manitoba in 2020/2021 and 2021/2022, and for Nova Scotia in 2021/2022 is based on the average distribution by gender for the years 2017/2018, 2018/2019 and 2019/2020 from vital statistics."
+4,"The population growth, which is used to calculate population estimates, is comprised of the natural growth (Tables 17100006 and 17100016), international migration (Table 17100014) and interprovincial migration (Table 17100015)."
+5,"The demographic estimates now incorporate the concept of gender, which was first introduced in the 2021 Census of Population. Gender refers to an individual's personal and social identity as a man, woman or non-binary person (a person who is not exclusively a man or a woman). Demographic estimates are available for the gender category "Men+", which includes men (and/or boys), as well as some non-binary persons, and for the gender category “Women+" category, which includes women (and/or girls), as well as some non-binary persons. For the sake of uniformity, all data products from the Demographic Estimates Program now adopt the term ‘gender’ for all years and periods. Prior to 2021, the demographic estimates are based on the concept of sex at birth. Although gender and sex at birth are two different concepts, this change does not cause a significant break in the trend because the two concepts produce very similar distributions. Population estimates by age and sex at birth are available upon request (please contact statcan.demography-demographie.statcan@statcan.gc.ca)."
+
+
+
+"How to cite: Statistics Canada. Table 17-10-0016-01  Estimates of births, by gender, annual"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710001601

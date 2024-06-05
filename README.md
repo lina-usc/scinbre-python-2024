@@ -29,7 +29,7 @@ If you are working on [Google Colab](https://colab.research.google.com/), you ca
 - 06/03: Introduction to Cloud Computing and Python | [without answers](https://colab.research.google.com/github/lina-usc/scinbre-python-2024/blob/main/0603_into_cloud_computing_and_python/day1_kuba_without_answers.ipynb) | [with answers](https://colab.research.google.com/github/lina-usc/scinbre-python-2024/blob/main/0603_into_cloud_computing_and_python/day1_kuba_with_answers.ipynb) | 
 - 06/04: String, Lists, Dictionaries, and Control Statements | [without answers](https://colab.research.google.com/github/lina-usc/scinbre-python-2024/blob/main/0604_control_statements_interators_arrays/day2_diksha_without_answers.ipynb) | [with answers](https://colab.research.google.com/github/lina-usc/scinbre-python-2024/blob/main/0604_control_statements_interators_arrays/day2_diksha_with_answers.ipynb) |
 - 06/05: NumPy - Scientific Computing | [without answers](https://colab.research.google.com/github/lina-usc/scinbre-python-2024/blob/main/0605_numpy/day3_deepa_without_answers.ipynb) | [with answers](https://colab.research.google.com/github/lina-usc/scinbre-python-2024/blob/main/0605_numpy/day3_deepa_with_answers.ipynb) |
-- 06/06:
+- 06/06: Pandas - Data Science | [without answers](https://colab.research.google.com/github/lina-usc/scinbre-python-2024/blob/main/0606_pandas/day4_kuba_without_answers.ipynb) | [with answers](https://colab.research.google.com/github/lina-usc/scinbre-python-2024/blob/main/0606_pandas/day4_kuba_with_answers.ipynb) |
 - 06/07:
 - 06/10:
 - 06/11:
